@@ -1,0 +1,6 @@
+{
+  "name": "DocuMatch AI — Intelligent Document Similarity & Duplicate Finder",
+  "description": "Intelligent document similarity and duplicate detection engine featuring text extraction, SHA-256 hashing, TF-IDF cosine similarity, interactive network maps, and comparison workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
